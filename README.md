@@ -15,5 +15,5 @@ first
 **2.添加项目依赖,复制q876625596/BezierAnimation在jitpack.io上查看最新版本**
 
 dependencies {
-        compile 'com.github.q876625596:BezierAnimation:1.0.0'
+        compile 'com.github.q876625596:BezierAnimation:1.0.1'
 }
